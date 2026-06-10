@@ -2,12 +2,12 @@
 About me:
 - 👾 I like trying different things that interest me
 - 🐝 B-Tech in CS from Amrita Vishwa Vidyapeetham
-- 👩‍💻 Interests in web, systems, and embedded IoT
+- 👩‍💻 Interests in backend, systems, and embedded
 
 Currently Working on:
 - Building web apps
 - Learning systems programming
-- Experimenting with embedded projects
+- Experimenting with embedded and backend projects
 
 ### Github Stats:
 ![Adwaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaith5002&show_icons=true&theme=prussian)
