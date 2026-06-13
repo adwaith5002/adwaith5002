@@ -1,38 +1,43 @@
-## Hi, I'm Adwaith
-About me:
-- 👾 I like trying different things that interest me
-- 🐝 B-Tech in CS from Amrita Vishwa Vidyapeetham
-- 👩‍💻 Interests in backend, systems, and embedded
+<h2 align="center">hi, i'm adwaith</h2>
 
-Currently Working on:
-- Building web apps
-- Learning systems programming
-- Experimenting with embedded and backend projects
+<p align="center">
+  to every developer out there
+</p>
 
-### Github Stats:
-![Adwaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaith5002&show_icons=true&theme=prussian)
+<p align="center">
+  <img src="yourturn.gif" width="700">
+</p>
 
-<!--
-**adwaith5002/adwaith5002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>it's your turn.</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  make something cool.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="allmight_codes.png" width="700">
+</p>
 
-### Socials
+<p align="center">
+  ─────────
+</p>
 
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/adwaith5002/)
-[<img align="left" alt="Substack" width="25px" src="https://cdn.simpleicons.org/substack/FF6719"/>](https://substack.com/@wholesomeguy/notes)
+<p align="center">
+  github
+</p>
 
-<br/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=adwaith5002&show_icons=true&theme=prussian"
+    alt="Adwaith's GitHub Stats"
+  />
+</p>
 
-[linkedin]: https://www.linkedin.com/in/adwaith5002/
-[substack]: https://substack.com/@wholesomeguy/likes
+<p align="center">
+  <a href="https://www.linkedin.com/in/adwaith5002/">linkedin</a> •
+  <a href="https://www.youtube.com/@wholesome_guy_codes">youtube</a> •
+  <a href="https://substack.com/@wholesomeguy">substack</a> •
+  <a href="https://medium.com/@adwaitharun2005">medium</a>
+</p>
