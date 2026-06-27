@@ -5,12 +5,10 @@
         <img src="yourturn.gif" alt="it's your turn" width="320" />
       </td>
       <td align="center">
-        <img src="allmight_codes.png" alt="all might coding" width="320" />
+        <img src="allmight_codes_v2.png" alt="all might coding" width="320" />
       </td>
     </tr>
   </table>
-
-  <br />
 
   <sub>
     <a href="https://www.linkedin.com/in/adwaith5002">linkedin</a> •
