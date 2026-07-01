@@ -15,6 +15,6 @@
     <a href="https://www.youtube.com/@wholesome_guy_codes">youtube</a> •
     <a href="https://substack.com/@wholesomeguy/notes">substack</a> •
     <a href="https://medium.com/@adwaitharun2005">medium</a> •
-    <a href="https://github.com/adwaith5002">stats</a>
+    <a href="https://github-readme-stats.vercel.app/api?username=adwaith5002">stats</a>
   </sub>
 </div>
